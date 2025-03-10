@@ -16,4 +16,4 @@ TechnoDrive-Landing is a dynamic and visually engaging landing page designed to 
 - 🎨 SASS (SCSS) – Enhances the styling with modern design.
 - ⚡ JavaScript – Powers interactivity and smooth animations.
 
-# [TechnoDrive-Landing]( https://vovan4ik1.github.io/TechnoDrive-Landing/)
+# [TechnoDrive-Landing]( https://volodmakarov.github.io/TechnoDrive-Landing/)
